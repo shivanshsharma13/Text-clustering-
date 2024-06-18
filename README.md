@@ -13,7 +13,7 @@ Visualizing the clustered data.
 Dependencies
 Ensure you have the following Python libraries installed to run the project:
 
-pandas
-scikit-learn
-matplotlib
+pandas,
+scikit-learn,
+matplotlib,
 numpy
