@@ -26,3 +26,4 @@ git commit -m "Added link to article"
 git push origin main
 
 ### Thanks for reading!
+### Happy Coding!
